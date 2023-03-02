@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "Visualiza Grupo A"
+title: "Tarea visualización de datos"
+author: "Visualiza Grupo A: David Lara Granero, Álvaro Cruz Fernández-Portolés, Rubén Peña Sánchez, Amalia Guarner Giner"
 date: "2023-03-02"
 output: html_document
 ---
